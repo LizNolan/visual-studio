@@ -1,0 +1,14 @@
+C:\Users\15035\Documents\GitHub\visual-studio\VSwebsite\VSwebsite\bin\Debug\netcoreapp2.1\VSwebsite.deps.json
+C:\Users\15035\Documents\GitHub\visual-studio\VSwebsite\VSwebsite\bin\Debug\netcoreapp2.1\VSwebsite.runtimeconfig.json
+C:\Users\15035\Documents\GitHub\visual-studio\VSwebsite\VSwebsite\bin\Debug\netcoreapp2.1\VSwebsite.runtimeconfig.dev.json
+C:\Users\15035\Documents\GitHub\visual-studio\VSwebsite\VSwebsite\bin\Debug\netcoreapp2.1\VSwebsite.dll
+C:\Users\15035\Documents\GitHub\visual-studio\VSwebsite\VSwebsite\bin\Debug\netcoreapp2.1\VSwebsite.pdb
+C:\Users\15035\Documents\GitHub\visual-studio\VSwebsite\VSwebsite\obj\Debug\netcoreapp2.1\VSwebsite.csprojAssemblyReference.cache
+C:\Users\15035\Documents\GitHub\visual-studio\VSwebsite\VSwebsite\obj\Debug\netcoreapp2.1\VSwebsite.csproj.CoreCompileInputs.cache
+C:\Users\15035\Documents\GitHub\visual-studio\VSwebsite\VSwebsite\obj\Debug\netcoreapp2.1\VSwebsite.RazorAssemblyInfo.cache
+C:\Users\15035\Documents\GitHub\visual-studio\VSwebsite\VSwebsite\obj\Debug\netcoreapp2.1\VSwebsite.RazorAssemblyInfo.cs
+C:\Users\15035\Documents\GitHub\visual-studio\VSwebsite\VSwebsite\obj\Debug\netcoreapp2.1\VSwebsite.AssemblyInfoInputs.cache
+C:\Users\15035\Documents\GitHub\visual-studio\VSwebsite\VSwebsite\obj\Debug\netcoreapp2.1\VSwebsite.AssemblyInfo.cs
+C:\Users\15035\Documents\GitHub\visual-studio\VSwebsite\VSwebsite\obj\Debug\netcoreapp2.1\VSwebsite.RazorTargetAssemblyInfo.cache
+C:\Users\15035\Documents\GitHub\visual-studio\VSwebsite\VSwebsite\obj\Debug\netcoreapp2.1\VSwebsite.dll
+C:\Users\15035\Documents\GitHub\visual-studio\VSwebsite\VSwebsite\obj\Debug\netcoreapp2.1\VSwebsite.pdb
